@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "repo_name": "integrator-core",
+    "package_name": "express",
+    "status": "in-progress",
+    "last_updated": "2024-03-15T10:30:00Z",
+    "tag": "1a2b3c4d"
+  },
+  {
+    "id": 2,
+    "repo_name": "flow-builder",
+    "package_name": "react",
+    "status": "completed",
+    "last_updated": "2024-03-14T15:45:00Z",
+    "tag": "1a2b3c4d"
+  },
+  {
+    "id": 3,
+    "repo_name": "api-gateway",
+    "package_name": "axios",
+    "status": "failed",
+    "last_updated": "2024-03-13T09:15:00Z",
+    "tag": "1a2b3c4d"
+  },
+  {
+    "id": 4,
+    "repo_name": "auth-service",
+    "package_name": "jsonwebtoken",
+    "status": "completed",
+    "last_updated": "2024-03-12T14:20:00Z",
+    "tag": "1a2b3c4d"
+  }
+]
